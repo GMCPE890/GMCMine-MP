@@ -8,4 +8,8 @@ script to suit the needs of your server or realm.
 <p align="center">[ Expired: 2023/1/10 ]</p>
 <p align="center">@Copyright By GMCPE890</p>
 
-# All Version
+# Change Logs
+<h3>・(v1.0.0)</h3>
+- Ecomony
+- Chat + Head Rank
+- Scoreboard
