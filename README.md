@@ -1,4 +1,4 @@
-# GMCStudio Scripts Add-On.
+# GMCMine-MP.
 
 ![](pack_icon.png?raw=true)
 
