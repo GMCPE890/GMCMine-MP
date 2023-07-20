@@ -1,4 +1,4 @@
-# Economy v1.1.0 (Plugin)
+# Economy (v1.1.0)
 ![](./assets/img/Economy/pack_icon.png?raw=true)
 Economy Plugins for GMCMine-MP
 
