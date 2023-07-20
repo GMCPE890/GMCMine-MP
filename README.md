@@ -33,3 +33,6 @@ script to suit the needs of your server or realm.
 <h2>Modules</h2>
 <h3>> <a href="./Not Found">UI</a></h3>
 <h3>> <a href="./Not Found">Economy</a></h3>
+
+<br />
+<h2>Functions</h2>
