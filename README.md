@@ -4,12 +4,12 @@
 
 This Add-On, allows you to change the configs in the
 script to suit the needs of your server or realm.
-<p align="center">[ <a href="https://semawur.com/Jj9X4im">Download Here !</a> ]</p>
+
 <p align="center">@Copyright By GMCPE890</p>
 
 
 # Change Logs
-<h3>> <a href="https://github.com/GMCPE890/GMCMine-MP/blob/main/Version/GMCMine-MP%20(v1.0.0).md">(v1.0.0)</a></h3>
+<h3>> <a href="./GMCMine-MP/tree/main/Version/GMCMine-MP%20(v1.0.0)">(v1.0.0)</a></h3>
 
 - <a>Adding management plugins</a>
 - <a>Adding expired</a>
