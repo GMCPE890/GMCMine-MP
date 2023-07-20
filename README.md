@@ -9,8 +9,19 @@ script to suit the needs of your server or realm.
 <p align="center">@Copyright By GMCPE890</p>
 
 
-<h3>Change Logs</h3>
-<p>> (v1.0.0)</p>
+# Change Logs
+<h3>> <a href="https://">(v1.0.0)</a></h3>
+
 - <a>Economy</a>
 - <a>ChatRank & HeadRank</a>
 - <a>Scoreboard</a>
+
+- <a>Adding expired</a>
+
+<h3>> <a href="https://">(v1.1.0)</a></h3>
+
+- <a>Adding modules</a>
+- <a>Adding functions</a>
+- <a>Adding premium access</a>
+
+- <a>Removed expired</a>
