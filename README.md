@@ -1,4 +1,4 @@
-# GMCMine-MP
+# GMCMine-MP (Add-on)
 
 ![](pack_icon.png?raw=true)
 
