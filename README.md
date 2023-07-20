@@ -7,8 +7,8 @@ script to suit the needs of your server or realm.
 
 <p align="center">@Copyright By GMCPE890</p>
 
-
-<h2>Change Logs</h2>
+<br />
+<h2>All-Version</h2>
 <h3>> <a href="./Version/GMCMine-MP%20(v1.0.0).md">(v1.0.0)</a></h3>
 
 - <a>Adding management plugins</a>
@@ -21,3 +21,6 @@ script to suit the needs of your server or realm.
 - <a>Modify management plugins</a>
 - <a>Adding premium access</a>
 - <a>Removed expired</a>
+
+<h2>Plugins</h2>
+<h3>> <a href="./Not Found">(v1.1.0)</a></h3>
