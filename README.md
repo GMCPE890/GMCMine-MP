@@ -8,7 +8,7 @@ script to suit the needs of your server or realm.
 <p align="center">@Copyright By GMCPE890</p>
 
 
-# Change Logs
+<h2>Change Logs</h2>
 <h3>> <a href="./Version/GMCMine-MP%20(v1.0.0).md">(v1.0.0)</a></h3>
 
 - <a>Adding management plugins</a>
