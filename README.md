@@ -22,5 +22,6 @@ script to suit the needs of your server or realm.
 - <a>Adding premium access</a>
 - <a>Removed expired</a>
 
+<br />
 <h2>Plugins</h2>
 <h3>> <a href="./Not Found">(v1.1.0)</a></h3>
