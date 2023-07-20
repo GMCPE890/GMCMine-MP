@@ -7,3 +7,12 @@ Economy Plugins for GMCMine-MP
 | :-----: | :-------: | :---------: | :-------: |
 | g-setmoney | `<player>` | Set the money belonging to the selected player | `Owner/Operator` |
 | g-pay | `<player>` | Give money to the selected player | `All` |
+
+## Configuration
+
+> File : `Plugins/Economy/configs.js`
+
+| Key | Description | Available Value | Default Value |
+| :----: | :----: | :----: | :----: |
+| default-currency | Sets default currency | Currency ID | dollar |
+| add-op-at-rank | Option to eliminate OP from top money ranking | bool | false |
