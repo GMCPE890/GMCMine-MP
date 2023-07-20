@@ -1,6 +1,6 @@
 # GMCMine-MP (v1.1.0)
 
-![](../pack_icon.png?raw=true)
+![](../assets/img/pack_icon.png?raw=true)
 
 This Add-On, allows you to change the configs in the
 script to suit the needs of your server or realm.
