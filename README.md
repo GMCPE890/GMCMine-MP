@@ -24,4 +24,7 @@ script to suit the needs of your server or realm.
 
 <br />
 <h2>Plugins</h2>
-<h3>> <a href="./Not Found">(v1.1.0)</a></h3>
+<h3>> <a href="./Not Found">Economy</a></h3>
+<h3>> <a href="./Not Found">Rank</a></h3>
+<h3>> <a href="./Not Found">Scoreboard</a></h3>
+<h3>> <a href="./Not Found">LandClaim</a></h3>
