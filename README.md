@@ -9,7 +9,7 @@ script to suit the needs of your server or realm.
 
 
 # Change Logs
-<h3>> <a href="./GMCMine-MP/tree/main/Version/GMCMine-MP%20(v1.0.0)">(v1.0.0)</a></h3>
+<h3>> <a href="[./GMCMine-MP/tree/main/Version/GMCMine-MP%20(v1.0.0)](https://github.com/GMCPE890/GMCMine-MP/blob/main/Version/GMCMine-MP%20(v1.0.0).md)">(v1.0.0)</a></h3>
 
 - <a>Adding management plugins</a>
 - <a>Adding expired</a>
