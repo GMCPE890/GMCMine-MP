@@ -8,7 +8,6 @@ script to suit the needs of your server or realm.
 > @Copyright by : `@GMCPE890`
 
 <p align="center">[ <a href="./Not Found!">Download Here !</a> ]</p>
-<p align="center">@Copyright By GMCPE890</p>
 
 <br />
 
