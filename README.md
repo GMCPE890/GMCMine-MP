@@ -2,6 +2,11 @@
 
 ![](./assets/img/pack_icon.png?raw=true)
 
+[![GitHub stars](https://img.shields.io/github/stars/GMCPE890/GMCMine-MP.svg)](https://github.com/GMCPE890/GMCMine-MP/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GMCPE890/GMCMine-MP.svg?color=blue)](https://github.com/GMCPE890/GMCMine-MP/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/GMCPE890/GMCMine-MP.svg?color=blue)](https://github.com/GMCPE890/GMCMine-MP/network)
+
+
 This Add-On, allows you to change the configs in the
 script to suit the needs of your server or realm.
 
