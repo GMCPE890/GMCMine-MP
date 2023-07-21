@@ -17,14 +17,14 @@ Economy Plugins for GMCMine-MP
 | Name | Version | See here |
 | :--: | :-----: | :------: |
 | UI | v1.1.0 | <a href="./Not Found">Here !</a> |
-| Economy | v1.1.0 | <a href="https://">Here !</a> |
+| Economy | v1.1.0 | <a href="./Not Found">Here !</a> |
 
 <br />
 
 ## Commands List
 | Default command | Parameter | Description | Default Permission |
 | :-----: | :-------: | :---------: | :-------: |
-| g-setmoney | `<player>` | Set the money belonging to the selected player | `Owner/Operator` |
+| g-setmoney | `<player>` | Set the money belonging to the selected player | `Owner/®Operator` |
 | g-mymoney | `<player>` | Displays the money that the player has | `All` |
 | g-pay | `<player>` | Give money to the selected player | `All` |
 
