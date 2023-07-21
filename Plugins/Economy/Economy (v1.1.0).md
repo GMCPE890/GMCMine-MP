@@ -16,6 +16,7 @@ Economy Plugins for GMCMine-MP
 ## Requires (Module)
 | Name | Version | See here |
 | :--: | :-----: | :------: |
+| UI | v1.1.0 | <a href="./Not Found">Here !</a> |
 | Economy | v1.1.0 | <a href="https://">Here !</a> |
 
 <br />
