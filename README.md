@@ -12,6 +12,8 @@ script to suit the needs of your server or realm.
 
 > @Copyright by : `@GMCPE890`
 
+Don't forget to give a :star: if this GMCMine-MP helps you create a server or realm.
+
 <br />
 
 ## All-Version
