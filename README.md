@@ -40,3 +40,8 @@ script to suit the needs of your server or realm.
 <br />
 
 ## Functions
+<h3>> <a href="./Not Found">World</a></h3>
+<h3>> <a href="./Not Found">Player</a></h3>
+<h3>> <a href="./Not Found">Container</a></h3>
+<h3>> <a href="./Not Found">Variabel</a></h3>
+<h3>> <a href="./Not Found">Session</a></h3>
