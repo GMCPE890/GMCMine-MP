@@ -35,9 +35,9 @@ Economy Plugins for GMCMine-MP
 > File : `Plugins/Economy/configs.js`
 
 | Key | Description | Available Value | Default Value |
-| :----: | :----: | :----: | :----: |
-| default-currency | Sets default currency | Currency ID | dollar |
-| add-op-at-rank | Option to eliminate OP from top money ranking | bool | false |
+| :----: | :----: | :----: | :-----: |
+| prefix_money | Sets prefix currency | Currency Prefix | `Rp` |
+| currency_name | Sets name currency | Currency Name | `Money` |
 
 <br />
 
