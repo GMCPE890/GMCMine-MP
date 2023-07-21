@@ -5,7 +5,7 @@
 This Add-On, allows you to change the configs in the
 script to suit the needs of your server or realm.
 
-<p align="center">@Copyright By GMCPE890</p>
+> @Copyright by : `@GMCPE890`
 
 <br />
 
