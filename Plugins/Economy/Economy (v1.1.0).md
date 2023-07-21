@@ -10,7 +10,6 @@ Economy Plugins for GMCMine-MP
 ## Requires (Function)
 | Name | Version | See here |
 | :--: | :-----: | :------: |
-| Player | v1.1.0 | <a href="https://">Here !</a> |
 
 <br />
 
