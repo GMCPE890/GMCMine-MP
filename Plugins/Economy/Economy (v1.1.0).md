@@ -6,6 +6,7 @@ Economy Plugins for GMCMine-MP
 | Default command | Parameter | Description | Default Permission |
 | :-----: | :-------: | :---------: | :-------: |
 | g-setmoney | `<player>` | Set the money belonging to the selected player | `Owner/Operator` |
+| g-mymoney | `<player>` | Displays the money that the player has | `All` |
 | g-pay | `<player>` | Give money to the selected player | `All` |
 
 ## Configuration
