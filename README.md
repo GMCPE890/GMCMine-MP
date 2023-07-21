@@ -10,8 +10,8 @@ script to suit the needs of your server or realm.
 <br />
 
 ## All-Version
-<h3>> <a href="./Version/GMCMine-MP%20(v1.0.0).md">(v1.0.0)</a></h3>
-<h3>> <a href="./Version/GMCMine-MP%20(v1.1.0).md">(v1.1.0)</a></h3>
+<h3>> <a href="./Version/GMCMine-MP%20(v1.0.0).md">GMCMine-MP (v1.0.0)</a></h3>
+<h3>> <a href="./Version/GMCMine-MP%20(v1.1.0).md">GMCMine-MP (v1.1.0)</a></h3>
 
 <br />
 
