@@ -1,7 +1,7 @@
 # Economy (v1.1.0)
 ![](./assets/img/Economy/pack_icon.png?raw=true)
 Economy Plugins for GMCMine-MP
-<p align="center">[ <a href="https://drive.google.com/file/d/1tJmhy8siozXfbJIcLCkFL7iIthE40RJu/view?usp=drivesdk">Download Here !</a> ]</p>
+<p align="center">[ <a href="./Not Found">Download Here !</a> ]</p>
 
 > @Copyright by : `@GMCPE890`
 
