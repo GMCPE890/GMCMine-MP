@@ -23,7 +23,7 @@ Rank Plugins for GMCMine-MP
 ## Commands List
 | Default command | Parameter | Description | Default Permission |
 | :-------------: | :-------: | :---------: | :----------------: |
-| g-setrank | `<Player>` | Give or assign a rank to the player | `owner/operator` |
+| g-setrank | `<player>` | Give or assign a rank to the player | `Owner/®Operator` |
 
 <br />
 
