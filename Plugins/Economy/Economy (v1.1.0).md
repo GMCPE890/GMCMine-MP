@@ -7,6 +7,14 @@ Economy Plugins for GMCMine-MP
 
 <br />
 
+## Requires (Function)
+
+<br />
+
+## Requires (Module)
+
+<br />
+
 ## Commands List
 | Default command | Parameter | Description | Default Permission |
 | :-----: | :-------: | :---------: | :-------: |
