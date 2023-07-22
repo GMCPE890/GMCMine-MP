@@ -32,7 +32,9 @@ Rank Plugins for GMCMine-MP
 > File : `Plugins/Scoreboard/configs.js`
 
 | Key | Description | Available Value | Default Value |
-| :-: | :---: | :---: | :-------: |
+| :-: | :---------: | :-------------: | :-----------: |
+| title | Scoreboard title | array | `["§f§kii§r    (§c§aGMCMine-MP§r)   §f§kii§r"]` |
+| lines | You can add the ranks for the scoreboard to the contents of the array | array | `["line1", "line2", ++]` |
 
 <br />
 
