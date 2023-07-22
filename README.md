@@ -17,10 +17,9 @@ script to suit the needs of your server or realm.
 <br />
 
 ## All-Version
-| Name | Version | Minecraft Version | See here |
+| Name | Version | Minecraft Version | Download |
 | :-------: | :-----: | :--------: | :------: |
-| GMCMine-MP | v1.0.0 | v1.18.0 | <a href="./Version/GMCMine-MP%20(v1.0.0).md">View</a> |
-| GMCMine-MP | v1.1.0 | v1.19.81 | <a href="./Version/GMCMine-MP%20(v1.1.0).md">View</a> |
+| GMCMine-MP | v1.0.0 | v1.19.81 | <a href="./Version/GMCMine-MP%20(v1.0.0).md">View</a> |
 
 <br />
 
