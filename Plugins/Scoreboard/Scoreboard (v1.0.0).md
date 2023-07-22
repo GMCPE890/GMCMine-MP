@@ -18,7 +18,7 @@ Rank Plugins for GMCMine-MP
 ## Requires (Module)
 | Name | Version | See here |
 | :--: | :-----: | :------: |
-| Economy | v1.0.0 | |
+| Economy | v1.0.0 | <a href="./Not Found">Here !</a> |
 
 <br />
 
