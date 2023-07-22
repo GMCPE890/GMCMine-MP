@@ -29,7 +29,7 @@ Rank Plugins for GMCMine-MP
 
 ## Configuration
 
-> File : `Plugins/Rank/configs.js`
+> File : `Plugins/Scoreboard/configs.js`
 
 | Key | Description | Available Value | Default Value |
 | :-: | :---: | :---: | :-------: |
