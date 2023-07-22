@@ -5,7 +5,7 @@ Economy Plugins for GMCMine-MP
 
 > @Copyright by : `@GMCPE890`
 
-> GMCMine-MP Version : `v1.0.0`
+> GMCMine-MP : `v1.0.0`
 
 <br />
 
