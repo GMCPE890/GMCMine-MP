@@ -7,6 +7,8 @@ script to suit the needs of your server or realm.
 
 > @Copyright by : `@GMCPE890`
 
+> Minecraft : `v1.19.81`
+
 <p align="center">[ <a href="./Not Found!">Download Here !</a> ]</p>
 
 <br />
