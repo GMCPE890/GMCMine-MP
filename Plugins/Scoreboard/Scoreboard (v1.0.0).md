@@ -1,11 +1,11 @@
 # Scoreboard (v1.0.0)
-![](./assets/img/Rank/pack_icon.png?raw=true)
+![](./assets/img/Scoreboard/pack_icon.png?raw=true)
 Rank Plugins for GMCMine-MP
 <p align="center">[ <a href="./Not Found">Download Here !</a> ]</p>
 
 > @Copyright by : `@GMCPE890`
 
-> GMCMine-MP Version : `v1.0.0`
+> GMCMine-MP : `v1.0.0`
 
 <br />
 
