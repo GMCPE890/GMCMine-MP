@@ -20,26 +20,3 @@ script to suit the needs of your server or realm.
 | Name | Version | Minecraft Version | Download |
 | :-------: | :-----: | :--------: | :------: |
 | GMCMine-MP | v1.0.0 | v1.19.81 | <a href="./Version/GMCMine-MP%20(v1.0.0).md">View</a> |
-
-<br />
-
-## Plugins
-<h3>> <a href="./Plugins/Economy/README.md">Economy</a></h3>
-<h3>> <a href="./Not Found">Rank</a></h3>
-<h3>> <a href="./Not Found">Scoreboard</a></h3>
-<h3>> <a href="./Not Found">LandClaim</a></h3>
-
-<br />
-
-## Modules
-<h3>> <a href="./Not Found">UI</a></h3>
-<h3>> <a href="./Not Found">Economy</a></h3>
-
-<br />
-
-## Functions
-<h3>> <a href="./Not Found">World</a></h3>
-<h3>> <a href="./Not Found">Player</a></h3>
-<h3>> <a href="./Not Found">Container</a></h3>
-<h3>> <a href="./Not Found">Variabel</a></h3>
-<h3>> <a href="./Not Found">Session</a></h3>
