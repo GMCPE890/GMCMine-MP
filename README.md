@@ -24,7 +24,7 @@ script to suit the needs of your server or realm.
 <br />
 
 ## Plugins
-<h3>> <a href="./Plugins/Economy">Economy</a></h3>
+<h3>> <a href="./Plugins/Economy/README.md">Economy</a></h3>
 <h3>> <a href="./Not Found">Rank</a></h3>
 <h3>> <a href="./Not Found">Scoreboard</a></h3>
 <h3>> <a href="./Not Found">LandClaim</a></h3>
