@@ -18,3 +18,17 @@ script to suit the needs of your server or realm.
 - <a>Adding modules</a>
 - <a>Adding functions</a>
 - <a>Adding premium access</a>
+
+<br />
+
+## Plugins
+<h3>> <a href="./Plugins/Economy/README.md">Economy</a></h3>
+<h3>> <a href="./Not Found">Rank</a></h3>
+<h3>> <a href="./Not Found">Scoreboard</a></h3>
+<h3>> <a href="./Not Found">LandClaim</a></h3>
+
+<br />
+
+## Modules
+<h3>> <a href="./Not Found">UI</a></h3>
+<h3>> <a href="./Not Found">Economy</a></h3>
