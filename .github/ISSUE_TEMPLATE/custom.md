@@ -1,10 +1,9 @@
 ---
-name: Custom issue template, Test
-about: Describe this issue template's purpose here., Test
-title: '', Test
-labels: '', Test
-assignees: '', Test
-
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 ---
 
 
